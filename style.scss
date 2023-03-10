@@ -1,0 +1,32 @@
+$crna: black;
+$plava_svetla: #497ddf;
+$plava: #98b9f2;
+$plava_tamna: #1f2e91;
+
+.crna {
+    background-color: $crna;
+}
+.crna-txt {
+    color: $crna;
+}
+.plava_svetla {
+    background-color: $plava_svetla;
+}
+.plava_svetla-txt {
+    color: $plava_svetla;
+}
+.plava {
+    background-color: $plava;
+}
+.plava-txt {
+    color: $plava;
+}
+.plava_tamna {
+    background-color: $plava_tamna;
+}
+.plava_tamna-txt {
+    color: $plava_tamna;
+}
+.darkbody{
+    background-color: $plava_tamna;
+}
